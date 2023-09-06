@@ -1,2 +1,2 @@
 # agriaku_application_test
-Answert to the question number 2 of Agriaku data scientist application.
+This repo host the answers to the question number 2 from Agriaku data scientist application.
